@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/emu.h
+cmath
+-
+string
+-
+vector
+-
+fstream
+-
+iostream
+-
+exception
+-
+
+/home/ruben/Desktop/Homeworks/MY_EMU/lib/emu.cpp
+cmath
+-
+string
+-
+vector
+-
+fstream
+-
+iostream
+-
+exception
+-
+emu.h
+/home/ruben/Desktop/Homeworks/MY_EMU/lib/emu.h
+

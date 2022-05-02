@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/emu.dir/test_run/TEST.cpp.o CMakeFiles/emu.dir/lib/emu.cpp.o CMakeFiles/emu.dir/lib/emu_runner.cpp.o -o emu 
